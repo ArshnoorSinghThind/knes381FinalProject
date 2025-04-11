@@ -1,4 +1,4 @@
-baseurl: '/'
+ionbaseurl: '/'
 permalink: pretty
 title: 'Jekyll Serif'
 
@@ -23,9 +23,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "sections"
     values:
-      layout: "service"
+      layout: "section"
   - scope:
       path: ""
       type: "team"
