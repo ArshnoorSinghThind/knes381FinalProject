@@ -1,1 +1,7 @@
 *.scss linguist-vendored
+*.md linguist-documentation
+*.yml linguist-vendored
+*.json linguist-vendored
+*.lock linguist-vendored
+*.svg linguist-vendored
+*.png linguist-vendored
