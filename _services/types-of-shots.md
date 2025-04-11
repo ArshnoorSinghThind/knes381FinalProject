@@ -1,6 +1,6 @@
 ---
 title: Types of Shots in Cricket
-weight: 6
+weight: 4
 excerpt: Learn the iconic cricket shots — cover drive, pull, cut, sweep and more.
 layout: service
 ---
