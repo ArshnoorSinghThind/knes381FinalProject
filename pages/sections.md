@@ -4,6 +4,12 @@ layout: page
 permalink: /sections/
 ---
 
+Total sections: {{ site.sections | size }}
+
+{% for s in site.sections %}
+- {{ s.title }}
+{% endfor %}
+
 <div class="container pt-6 pb-6 pb-md-10">
   <div class="row justify-content-start">
     {% for section in site.sections %}
