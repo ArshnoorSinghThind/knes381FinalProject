@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: The Science of the Swing
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: A dynamic showcase of sport performance through the lens of cricket — blending biomechanics, analytics, and gameplay. A living resume of everything I’ve learned in KNES 381.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
-# Serif - A Jekyll Business Theme.
+# 🏏 The Science of the Swing
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A dynamic showcase of athletic performance through the lens of cricket — blending biomechanics, analytics, and gameplay.  
+This living resume captures everything I’ve learned, built, and explored throughout **KNES 381**.
