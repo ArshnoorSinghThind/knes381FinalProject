@@ -4,6 +4,8 @@ layout: page
 permalink: /sections/
 ---
 
+{% assign sorted_sections = site.sections | sort: 'weight' %}
+
 <div class="container pt-6 pb-6 pb-md-10">
   <div class="row justify-content-start">
     {% assign sorted_sections = site.sections | sort: 'weight' %}
