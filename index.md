@@ -12,3 +12,8 @@ show_call_box: false
 
 A dynamic showcase of athletic performance through the lens of cricket — blending biomechanics, analytics, and gameplay.  
 This living resume captures everything I’ve learned, built, and explored throughout **KNES 381**.
+
+## Section Titles
+{% for s in site.sections %}
+- {{ s.title }}
+{% endfor %}
